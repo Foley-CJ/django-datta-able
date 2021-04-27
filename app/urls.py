@@ -11,7 +11,12 @@ urlpatterns = [
     # The home page
     path('', views.index, name='home'),
 
+ 	# Upload Location
+    path('upload/csv', views.upload_csv, name='upload_csv'),
+
     # Matches any html file
     re_path(r'^.*\.*', views.pages, name='pages'),
+
+
 
 ]

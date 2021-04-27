@@ -1516,10 +1516,12 @@ p.text-muted {
           align-items: center;
 }
 .b-brand .b-bg {
-  background: linear-gradient(-135deg, #1de9b6 0%, #1dc4e9 100%);
-  border-radius: 10px;
-  width: 35px;
-  height: 35px;
+ /* background: linear-gradient(-135deg, #1de9b6 0%, #1dc4e9 100%);*/
+  background-image: url("https://www.navysealfoundation.org/wp-content/uploads/2016/08/NSF-Icon.png");
+  background-size: 65px;
+  border-radius: 5px;
+  width: 55px;
+  height: 55px;
   display: -webkit-inline-box;
   display: -ms-inline-flexbox;
   display: inline-flex;
@@ -2092,7 +2094,7 @@ p.text-muted {
   text-align: center;
   width: 264px;
   margin-right: 0;
-  padding: 10px 20px;
+  padding: 10px 5px;
   -webkit-transition: all 0.3s ease-in-out;
   transition: all 0.3s ease-in-out;
 }
