@@ -1,0 +1,4 @@
+﻿Amount,Stage,CloseDate,RecurringDonationInstallmentPeriod,RecurringDonationInstallmentAmount,RecurringDonationLastDonationDate,NSFID,FirstGiftDate,LastGiftDate,LastGiftAmount,Region,BillingState,
+$50.00,Closed Won,9/24/2018,Monthly,$50.00,11/24/2018,NSF-22308,4/29/2017,3/4/2021,$26.25,North Central,MI,
+$50.00,Closed Won,10/24/2018,Monthly,$50.00,11/24/2018,NSF-22308,4/29/2017,3/4/2021,$26.25,North Central,MI,
+$50.00,Closed Won,6/24/2018,Monthly,$50.00,11/24/2018,NSF-22308,4/29/2017,3/4/2021,$26.25,North Central,MI,
