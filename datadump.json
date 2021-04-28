@@ -1,0 +1,73 @@
+[0m[0K[{"model": "contenttypes.contenttype", "pk": 1, "fields": {"app_label": "admin"[0K,[?25l
+ "model": "logentry"}}, {"model": "contenttypes.contenttype", "pk": 2, "fields"[0K:
+ {"app_label": "auth", "model": "permission"}}, {"model": "contenttypes.content[0Kt
+ype", "pk": 3, "fields": {"app_label": "auth", "model": "group"}}, {"model": "c[0Ko
+ntenttypes.contenttype", "pk": 4, "fields": {"app_label": "auth", "model": "use[0Kr
+"}}, {"model": "contenttypes.contenttype", "pk": 5, "fields": {"app_label": "co[0Kn
+tenttypes", "model": "contenttype"}}, {"model": "contenttypes.contenttype", "pk[0K"
+: 6, "fields": {"app_label": "sessions", "model": "session"}}, {"model": "sessi[0Ko
+ns.session", "pk": "nnyy913ulb8abm33j0rcpcy08cr464zk", "fields": {"session_data[0K"
+: "NDY5OWMxNDBkYTZkNDRjMzBlYzRhMDVkZTIyZWU4NmJlNTNkNzRiYTp7Il9hdXRoX3VzZXJfaWQi[0KO
+iIxIiwiX2F1dGhfdXNlcl9iYWNrZW5kIjoiZGphbmdvLmNvbnRyaWIuYXV0aC5iYWNrZW5kcy5Nb2Rl[0Kb
+EJhY2tlbmQiLCJfYXV0aF91c2VyX2hhc2giOiJjNTU0YWQ2YTNkYzIzMzdmYzdlZGI0MWQzN2E3ZTIx[0KM
+jcwMGEyZGI0In0=", "expire_date": "2021-04-21T00:39:07.164Z"}}, {"model": "sessi[0Ko
+ns.session", "pk": "wzfpfkzdknaj0hffvuuxpjky48py6bt9", "fields": {"session_data[0K"
+: "MDgxMjg0Y2EzMWJmZmI1YzBiMTE3Y2JhNTYwMWQ5OWQ3ZTMzYTBlYTp7Il9hdXRoX3VzZXJfaWQi[0KO
+iIyIiwiX2F1dGhfdXNlcl9iYWNrZW5kIjoiZGphbmdvLmNvbnRyaWIuYXV0aC5iYWNrZW5kcy5Nb2Rl[0Kb
+EJhY2tlbmQiLCJfYXV0aF91c2VyX2hhc2giOiIyZDAyZGJiMmZhMmUxOTA5MzJlMDkzZDcyOGJhNDlh[0KZ
+TI2MDA1MGZkIn0=", "expire_date": "2021-05-11T05:17:14.919Z"}}, {"model": "auth.[0Kp
+ermission", "pk": 1, "fields": {"name": "Can add log entry", "content_type": 1,[0K
+"codename": "add_logentry"}}, {"model": "auth.permission", "pk": 2, "fields": {[0K"
+name": "Can change log entry", "content_type": 1, "codename": "change_logentry"[0K}
+}, {"model": "auth.permission", "pk": 3, "fields": {"name": "Can delete log ent[0Kr
+y", "content_type": 1, "codename": "delete_logentry"}}, {"model": "auth.permiss[0Ki
+on", "pk": 4, "fields": {"name": "Can view log entry", "content_type": 1, "code[0Kn
+ame": "view_logentry"}}, {"model": "auth.permission", "pk": 5, "fields": {"name[0K"
+: "Can add permission", "content_type": 2, "codename": "add_permission"}}, {"mo[0Kd
+el": "auth.permission", "pk": 6, "fields": {"name": "Can change permission", "c[0Ko
+ntent_type": 2, "codename": "change_permission"}}, {"model": "auth.permission",[0K
+"pk": 7, "fields": {"name": "Can delete permission", "content_type": 2, "codena[0Km
+e": "delete_permission"}}, {"model": "auth.permission", "pk": 8, "fields": {"na[0Km
+e": "Can view permission", "content_type": 2, "codename": "view_permission"}}, [0K{
+"model": "auth.permission", "pk": 9, "fields": {"name": "Can add group", "conte[0Kn
+t_type": 3, "codename": "add_group"}}, {"model": "auth.permission", "pk": 10, "[0Kf
+ields": {"name": "Can change group", "content_type": 3, "codename": "change_gro[0Ku
+p"}}, {"model": "auth.permission", "pk": 11, "fields": {"name": "Can delete gro[0Ku
+p", "content_type": 3, "codename": "delete_group"}}, {"model": "auth.permission[0K"
+, "pk": 12, "fields": {"name": "Can view group", "content_type": 3, "codename":[0K
+"view_group"}}, {"model": "auth.permission", "pk": 13, "fields": {"name": "Can [0Ka
+dd user", "content_type": 4, "codename": "add_user"}}, {"model": "auth.permissi[0Ko
+n", "pk": 14, "fields": {"name": "Can change user", "content_type": 4, "codenam[0Ke
+": "change_user"}}, {"model": "auth.permission", "pk": 15, "fields": {"name": "[0KC
+an delete user", "content_type": 4, "codename": "delete_user"}}, {"model": "aut[0Kh
+.permission", "pk": 16, "fields": {"name": "Can view user", "content_type": 4, [0K"
+codename": "view_user"}}, {"model": "auth.permission", "pk": 17, "fields": {"na[0Km
+e": "Can add content type", "content_type": 5, "codename": "add_contenttype"}},[0K
+{"model": "auth.permission", "pk": 18, "fields": {"name": "Can change content t[0Ky
+pe", "content_type": 5, "codename": "change_contenttype"}}, {"model": "auth.per[0Km
+ission", "pk": 19, "fields": {"name": "Can delete content type", "content_type"[0K:
+ 5, "codename": "delete_contenttype"}}, {"model": "auth.permission", "pk": 20, [0K"
+fields": {"name": "Can view content type", "content_type": 5, "codename": "view[0K_
+contenttype"}}, {"model": "auth.permission", "pk": 21, "fields": {"name": "Can [0Ka
+dd session", "content_type": 6, "codename": "add_session"}}, {"model": "auth.pe[0Kr
+mission", "pk": 22, "fields": {"name": "Can change session", "content_type": 6,[0K
+"codename": "change_session"}}, {"model": "auth.permission", "pk": 23, "fields"[0K:
+ {"name": "Can delete session", "content_type": 6, "codename": "delete_session"[0K}
+}, {"model": "auth.permission", "pk": 24, "fields": {"name": "Can view session"[0K,
+ "content_type": 6, "codename": "view_session"}}, {"model": "auth.user", "pk": [0K1
+, "fields": {"password": "pbkdf2_sha256$150000$KChNosxAt0B7$oUd1AEWqiqFQ9J6A8hR[0Kk
+p16OC9MY6cSmfHBeSgR7aNg=", "last_login": "2021-04-07T00:39:07.142Z", "is_superu[0Ks
+er": false, "username": "capestoneMcCombs", "first_name": "", "last_name": "", [0K"
+email": "connorfoley.j@gmail.com", "is_staff": false, "is_active": true, "date_[0Kj
+oined": "2021-04-07T00:33:56.017Z", "groups": [], "user_permissions": []}}, {"m[0Ko
+del": "auth.user", "pk": 2, "fields": {"password": "pbkdf2_sha256$150000$BYnBpD[0K4
+aFyK8$KSKaHPSUTYYYnQ1PE73/NldKO6T6u5qVKCErVFN2LHw=", "last_login": "2021-04-27T[0K0
+5:17:14.905Z", "is_superuser": false, "username": "admin", "first_name": "", "l[0Ka
+st_name": "", "email": "connorfoley.j@gmail.com", "is_staff": false, "is_active[0K"
+: true, "date_joined": "2021-04-21T03:07:18.962Z", "groups": [], "user_permissi[0Ko
+ns": []}}, {"model": "auth.user", "pk": 3, "fields": {"password": "pbkdf2_sha25[0K6
+$150000$71NlR0aYhMje$Nzy68Yj36GbeOFnIsYf5OFEkRVPPGKDNDzQmPDFDAxM=", "last_login[0K"
+: null, "is_superuser": true, "username": "UT_Admin", "first_name": "", "last_n[0Ka
+me": "", "email": "connorfoley.j@gmail.com", "is_staff": true, "is_active": tru[0Ke
+, "date_joined": "2021-04-28T04:43:54.077Z", "groups": [], "user_permissions": [0K[
+]}}][0K[?25h

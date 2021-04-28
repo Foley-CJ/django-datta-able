@@ -1,5 +1,11 @@
-admin | UTMBACAPSTONE
+postgres
+	nsf
+	nsfuser
+	UTMBACAPSTONE
 
+
+admin | UTMBACAPSTONE
+UT_Admin | UTMBACAPSTONE | connorfoley.j@gmail.com
 
 
 
@@ -8,3 +14,4 @@ connorfoley.j@gmail.com
 nsfFinalProject
 nsfFinalProject
 
+source ./env/Scripts/activate
