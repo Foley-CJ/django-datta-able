@@ -8,7 +8,7 @@ from decouple import config
 from unipath import Path
 import dj_database_url
 
-import django_heroku
+
 
 # Build paths inside the project like this: os.path.join(BASE_DIR, ...)
 BASE_DIR = Path(__file__).parent
@@ -151,6 +151,5 @@ if 'DATABASE_URL' in os.environ:
 #############################################################
 #############################################################
 
-django_heroku.settings(locals())
 
 
